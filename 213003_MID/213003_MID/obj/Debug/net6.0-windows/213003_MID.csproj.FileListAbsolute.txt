@@ -1,0 +1,17 @@
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\bin\Debug\net6.0-windows\213003_MID.exe
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\bin\Debug\net6.0-windows\213003_MID.deps.json
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\bin\Debug\net6.0-windows\213003_MID.runtimeconfig.json
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\bin\Debug\net6.0-windows\213003_MID.dll
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\bin\Debug\net6.0-windows\213003_MID.pdb
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\213003_MID.csproj.AssemblyReference.cache
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\_213003_MID.Form1.resources
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\213003_MID.csproj.GenerateResource.cache
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\213003_MID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\213003_MID.AssemblyInfoInputs.cache
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\213003_MID.AssemblyInfo.cs
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\213003_MID.csproj.CoreCompileInputs.cache
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\213003_MID.dll
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\refint\213003_MID.dll
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\213003_MID.pdb
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\213003_MID.genruntimeconfig.cache
+C:\Users\kashif\Desktop\213003 Lab VP\213003_MID\213003_MID\obj\Debug\net6.0-windows\ref\213003_MID.dll
